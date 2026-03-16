@@ -17,6 +17,8 @@ Python desde nivel básico hasta intermedio.
 | 03 | [Generador de Contraseñas](./proyecto_03_generador_contrasenas/) | string, list, join, shuffle |
 | 04 | [Adivina el Número](./proyecto_04_adivina_el_numero/) | randint, while, módulo, isdigit |
 | 05 | [Reloj Digital](./proyecto_05_reloj_digital/) | tkinter, datetime, after, Label |
+| 06 | [Acortador de Enlaces](./proyecto_06_acortador_enlaces/) | try/except, pip, append, enumerate |
+| 07 | [Organizador de Archivos](./proyecto_07_organizador_archivos/) | os, shutil, makedirs, splitext |
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -34,6 +36,8 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 03 - Generador de Contraseñas
 - [x] Proyecto 04 - Adivina el Número
 - [x] Proyecto 05 - Reloj Digital con Interfaz Gráfica
+- [x] Proyecto 06 - Acortador de Enlaces
+- [x] Proyecto 07 - Organizador de Archivos
 
 ## 👤 Autor
 **Tu Nombre**
