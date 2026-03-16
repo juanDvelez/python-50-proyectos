@@ -15,6 +15,7 @@ Python desde nivel básico hasta intermedio.
 | 01 | [Calculadora de Propinas](./proyecto_01_calculadora_propinas/) | input, float, f-strings |
 | 02 | [Piedra, Papel o Tijera](./proyecto_02_piedra_papel_tijera/) | if/elif/else, while, random |
 | 03 | [Generador de Contraseñas](./proyecto_03_generador_contrasenas/) | string, list, join, shuffle |
+| 04 | [Adivina el Número](./proyecto_04_adivina_el_numero/) | randint, while, módulo, isdigit |
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -30,7 +31,7 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 01 - Calculadora de Propinas
 - [x] Proyecto 02 - Piedra, Papel o Tijera
 - [x] Proyecto 03 - Generador de Contraseñas
-- [ ] Proyecto 04 - Adivina el Número
+- [x] Proyecto 04 - Adivina el Número
 - [ ] Proyecto 05 - Reloj Digital con Interfaz Gráfica
 
 ## 👤 Autor
