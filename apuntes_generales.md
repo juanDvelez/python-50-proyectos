@@ -10,6 +10,7 @@
 | requests | Peticiones a internet | P06 |
 | os | Manejar archivos y carpetas del sistema | P07 |
 | shutil | Mover y copiar archivos | P07 |
+| collections | Estructuras de datos avanzadas | P08 
 
 ## Conceptos clave
 | Concepto | Ejemplo | Proyecto |
@@ -31,6 +32,7 @@
 | shutil.move() | Mover archivos de lugar | P07 |
 | dict.get(clave, 0) | Leer diccionario sin error | P07 |
 | def funcion(): | Definir una función | P07 |
+| collections | Estructuras de datos avanzadas | P08 
 
 
 ## Errores frecuentes y soluciones

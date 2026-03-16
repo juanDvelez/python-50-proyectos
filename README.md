@@ -19,6 +19,7 @@ Python desde nivel básico hasta intermedio.
 | 05 | [Reloj Digital](./proyecto_05_reloj_digital/) | tkinter, datetime, after, Label |
 | 06 | [Acortador de Enlaces](./proyecto_06_acortador_enlaces/) | try/except, pip, append, enumerate |
 | 07 | [Organizador de Archivos](./proyecto_07_organizador_archivos/) | os, shutil, makedirs, splitext |
+| 08 | [Contador de Palabras](./proyecto_08_contador_palabras/) | open, Counter, list comprehension |
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -38,6 +39,8 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 05 - Reloj Digital con Interfaz Gráfica
 - [x] Proyecto 06 - Acortador de Enlaces
 - [x] Proyecto 07 - Organizador de Archivos
+- [x] Proyecto 08 - Contador de Palabras
+- [ ] Proyecto 09 - Convertidor de Unidades
 
 ## 👤 Autor
 **Tu Nombre**
