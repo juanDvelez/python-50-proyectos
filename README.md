@@ -16,6 +16,7 @@ Python desde nivel básico hasta intermedio.
 | 02 | [Piedra, Papel o Tijera](./proyecto_02_piedra_papel_tijera/) | if/elif/else, while, random |
 | 03 | [Generador de Contraseñas](./proyecto_03_generador_contrasenas/) | string, list, join, shuffle |
 | 04 | [Adivina el Número](./proyecto_04_adivina_el_numero/) | randint, while, módulo, isdigit |
+| 05 | [Reloj Digital](./proyecto_05_reloj_digital/) | tkinter, datetime, after, Label |
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -32,7 +33,7 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 02 - Piedra, Papel o Tijera
 - [x] Proyecto 03 - Generador de Contraseñas
 - [x] Proyecto 04 - Adivina el Número
-- [ ] Proyecto 05 - Reloj Digital con Interfaz Gráfica
+- [x] Proyecto 05 - Reloj Digital con Interfaz Gráfica
 
 ## 👤 Autor
 **Tu Nombre**
