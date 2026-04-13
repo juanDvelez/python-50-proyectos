@@ -1,9 +1,0 @@
-[
-    {
-        "id": 1,
-        "titulo": "estudiar Python",
-        "prioridad": "alta",
-        "completada": true,
-        "fecha": "12/04/2026 20:12"
-    }
-]
