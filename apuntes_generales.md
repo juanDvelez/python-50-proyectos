@@ -33,6 +33,10 @@
 | dict.get(clave, 0) | Leer diccionario sin error | P07 |
 | def funcion(): | Definir una función | P07 |
 | collections | Estructuras de datos avanzadas | P08 
+| Diccionarios anidados | Datos en múltiples niveles | P09 |
+| .keys() | Obtener claves de diccionario | P09 |
+| zip() | Unir dos listas en pares | P09 |
+| Comparación encadenada | 0 <= x < total | P09 |
 
 
 ## Errores frecuentes y soluciones

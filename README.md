@@ -20,6 +20,7 @@ Python desde nivel básico hasta intermedio.
 | 06 | [Acortador de Enlaces](./proyecto_06_acortador_enlaces/) | try/except, pip, append, enumerate |
 | 07 | [Organizador de Archivos](./proyecto_07_organizador_archivos/) | os, shutil, makedirs, splitext |
 | 08 | [Contador de Palabras](./proyecto_08_contador_palabras/) | open, Counter, list comprehension |
+| 09 | [Convertidor de Unidades](./proyecto_09_convertidor_unidades/) | diccionarios anidados, zip, keys |
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -40,8 +41,9 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 06 - Acortador de Enlaces
 - [x] Proyecto 07 - Organizador de Archivos
 - [x] Proyecto 08 - Contador de Palabras
-- [ ] Proyecto 09 - Convertidor de Unidades
+- [x] Proyecto 09 - Convertidor de Unidades
+- [ ] Proyecto 10 - Lista de Tareas Pendientes
 
 ## 👤 Autor
-**Tu Nombre**
+**Juan David Velez**
 GitHub: [@juanDvelez](https://github.com/juanDvelez)
