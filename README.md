@@ -21,6 +21,7 @@ Python desde nivel básico hasta intermedio.
 | 07 | [Organizador de Archivos](./proyecto_07_organizador_archivos/) | os, shutil, makedirs, splitext |
 | 08 | [Contador de Palabras](./proyecto_08_contador_palabras/) | open, Counter, list comprehension |
 | 09 | [Convertidor de Unidades](./proyecto_09_convertidor_unidades/) | diccionarios anidados, zip, keys |
+| 10 | [Lista de Tareas](./proyecto_10_lista_tareas/) | json, persistencia, next(), modos open |
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -42,7 +43,8 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 07 - Organizador de Archivos
 - [x] Proyecto 08 - Contador de Palabras
 - [x] Proyecto 09 - Convertidor de Unidades
-- [ ] Proyecto 10 - Lista de Tareas Pendientes
+- [x] Proyecto 10 - Lista de Tareas Pendientes
+- [ ] Proyecto 11 - Simulador de Lanzamiento de Dados
 
 ## 👤 Autor
 **Juan David Velez**

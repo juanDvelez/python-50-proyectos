@@ -11,6 +11,7 @@
 | os | Manejar archivos y carpetas del sistema | P07 |
 | shutil | Mover y copiar archivos | P07 |
 | collections | Estructuras de datos avanzadas | P08 
+| json | Guardar y leer datos estructurados | P10 |
 
 ## Conceptos clave
 | Concepto | Ejemplo | Proyecto |
@@ -37,6 +38,11 @@
 | .keys() | Obtener claves de diccionario | P09 |
 | zip() | Unir dos listas en pares | P09 |
 | Comparación encadenada | 0 <= x < total | P09 |
+| json.dump() | Escribir datos en archivo JSON | P10 |
+| json.load() | Leer datos desde archivo JSON | P10 |
+| open() "w"  | Escribir en archivos | P10 |
+| next()      | Buscar primer elemento que cumple condición | P10 |
+| Persistencia | Datos que no se pierden al cerrar | P10 |
 
 
 ## Errores frecuentes y soluciones
