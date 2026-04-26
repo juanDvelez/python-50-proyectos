@@ -43,6 +43,10 @@
 | open() "w"  | Escribir en archivos | P10 |
 | next()      | Buscar primer elemento que cumple condición | P10 |
 | Persistencia | Datos que no se pierden al cerrar | P10 |
+| range(n) | Repetir N veces exactas | P11 |
+| max(key=) | Máximo por criterio | P11 |
+| sorted() | Ordenar cualquier iterable | P11 |
+| _ variable | Variable que no se usa | P11 |
 
 
 ## Errores frecuentes y soluciones

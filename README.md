@@ -22,6 +22,7 @@ Python desde nivel básico hasta intermedio.
 | 08 | [Contador de Palabras](./proyecto_08_contador_palabras/) | open, Counter, list comprehension |
 | 09 | [Convertidor de Unidades](./proyecto_09_convertidor_unidades/) | diccionarios anidados, zip, keys |
 | 10 | [Lista de Tareas](./proyecto_10_lista_tareas/) | json, persistencia, next(), modos open |
+| 11 | [Simulador de Dados](./proyecto_11_simulador_dados/) | range, max key, sorted, ASCII chart |
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -44,7 +45,8 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 08 - Contador de Palabras
 - [x] Proyecto 09 - Convertidor de Unidades
 - [x] Proyecto 10 - Lista de Tareas Pendientes
-- [ ] Proyecto 11 - Simulador de Lanzamiento de Dados
+- [X] Proyecto 11 - Simulador de Lanzamiento de Dados
+- [ ] Proyecto 12 - Reloj de Cuenta Regresiva
 
 ## 👤 Autor
 **Juan David Velez**
