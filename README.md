@@ -23,6 +23,8 @@ Python desde nivel básico hasta intermedio.
 | 09 | [Convertidor de Unidades](./proyecto_09_convertidor_unidades/) | diccionarios anidados, zip, keys |
 | 10 | [Lista de Tareas](./proyecto_10_lista_tareas/) | json, persistencia, next(), modos open |
 | 11 | [Simulador de Dados](./proyecto_11_simulador_dados/) | range, max key, sorted, ASCII chart |
+| 12 | [Pomodoro Timer](./proyecto_12_pomodoro/) | time.sleep, divmod, range inverso, KeyboardInterrupt |
+
 
 ### 🟡 Intermedio
 | # | Proyecto | Conceptos aprendidos |
@@ -46,7 +48,8 @@ Python desde nivel básico hasta intermedio.
 - [x] Proyecto 09 - Convertidor de Unidades
 - [x] Proyecto 10 - Lista de Tareas Pendientes
 - [X] Proyecto 11 - Simulador de Lanzamiento de Dados
-- [ ] Proyecto 12 - Reloj de Cuenta Regresiva
+- [x] Proyecto 12 - Reloj de Cuenta Regresiva
+- [ ] Proyecto 13 - Buscador de Definiciones
 
 ## 👤 Autor
 **Juan David Velez**

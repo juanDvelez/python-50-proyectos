@@ -12,6 +12,7 @@
 | shutil | Mover y copiar archivos | P07 |
 | collections | Estructuras de datos avanzadas | P08 
 | json | Guardar y leer datos estructurados | P10 |
+| time | Manejar tiempo y pausas | P12 |
 
 ## Conceptos clave
 | Concepto | Ejemplo | Proyecto |
@@ -47,6 +48,11 @@
 | max(key=) | Máximo por criterio | P11 |
 | sorted() | Ordenar cualquier iterable | P11 |
 | _ variable | Variable que no se usa | P11 |
+| time.sleep() | Pausar programa N segundos | P12 |
+| divmod() | Cociente y residuo juntos | P12 |
+| range(a,b,-1) | Contar hacia atrás | P12 |
+| :02d | Rellenar con ceros | P12 |
+| KeyboardInterrupt | Capturar Ctrl+C | P12 |
 
 
 ## Errores frecuentes y soluciones
